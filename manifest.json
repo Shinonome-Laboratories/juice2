@@ -1,0 +1,11 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "🧃Juice²🧃",
+  "orientation": "any",
+  "scope": "https://shinonome-laboratories.github.io/juice2/",
+  "short_name": "Juice²",
+  "start_url": "https://shinonome-laboratories.github.io/juice2/",
+  "theme_color": "#000000"
+}

@@ -1,23 +1,13 @@
 {
-  "background_color": "#000000",
-  "dir": "ltr",
+  "name": "Juicebox",
+  "short_name": "Juicebox",
+  "description": "Matrix client application",
+  "start_url": "./",
   "display": "standalone",
-  "name": "🧃Juice²🧃",
-  "orientation": "any",
-  "scope": "https://shinonome-laboratories.github.io/juice2/",
-  "short_name": "Juice²",
-  "start_url": "https://shinonome-laboratories.github.io/juice2/",
-  "theme_color": "#000000",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
   "icons": [
-    {
-      "src": "/juice2/icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/juice2/icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
